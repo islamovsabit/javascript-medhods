@@ -1,1 +1,1 @@
-# javascript-medhods
+# Javascript-Medhods
